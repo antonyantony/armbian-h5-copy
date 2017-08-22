@@ -15,7 +15,7 @@ case $BRANCH in
 	ATF_USE_GCC='> 6.0'
 	ATF_TARGET_MAP='PLAT=sun50iw1p1 DEBUG=1 bl31;;build/sun50iw1p1/debug/bl31.bin'
 
-	BOOTSOURCE='https://github.com/zador-blood-stained/u-boot-sun50i.git'
+	BOOTSOURCE='https://github.com/antonyantony/u-boot-sun50i'
 	BOOTDIR='u-boot-sun50i'
 	BOOTBRANCH='branch:master'
 	BOOTPATCHDIR='u-boot-sun50i-dev'
