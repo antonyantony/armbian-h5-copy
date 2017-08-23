@@ -17,7 +17,7 @@ case $BRANCH in
 
 	BOOTSOURCE='https://github.com/antonyantony/u-boot-sun50i'
 	BOOTDIR='u-boot-sun50i'
-	BOOTBRANCH='branch:master'
+	BOOTBRANCH='branch:nanopineoplus2'
 	BOOTPATCHDIR='u-boot-sun50i-dev'
 	UBOOT_USE_GCC='> 7.0'
 	UBOOT_TARGET_MAP="$BOARD;;u-boot-sunxi-with-spl.bin"
